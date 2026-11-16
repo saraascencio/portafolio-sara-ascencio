@@ -1,58 +1,19 @@
-# Portfolio — Sara Ascencio
+# 🌟 Portafolio Profesional | Sara Ascencio
 
-Portafolio personal desarrollado con React + CSS (sin dependencias de UI).
+Bienvenido a mi portafolio interactivo. Soy **Próxima a egresar de Ingeniería en Sistemas Informáticos** por la Universidad Católica de El Salvador, con un fuerte interés en **Análisis de Datos, Business Intelligence y Desarrollo de Software**.
 
-## 🚀 Cómo correrlo localmente
+## 🚀 Sobre este proyecto
+Este no es solo un portafolio visual, es una aplicación web construida desde cero demostrando mis habilidades técnicas en el desarrollo Frontend moderno, manejo de estado, accesibilidad, internacionalización y seguridad web.
 
-```bash
-npm install
-npm start
-```
+## 🛠️ Stack Tecnológico
+* **Frontend:** React (Vite) + JavaScript
+* **Estilos:** CSS puro (Animaciones personalizadas, Responsive Design, Dark Mode).
+* **Internacionalización:** Sistema propio (i18n) en Español, Inglés y Francés.
+* **Hosting & CI/CD:** Vercel (despliegue continuo desde GitHub).
+* **Multimedia:** Cloudinary (optimización de imágenes y videos).
 
-Abre http://localhost:3000
-
-## 🏗️ Cómo construir para producción
-
-```bash
-npm run build
-```
-
-Sube la carpeta `build/` a Vercel, Netlify o GitHub Pages.
-
-## 📸 Agregar tu foto
-
-En `src/App.jsx`, busca el comentario:
-```
-{/* Replace this div with <img src="tu-foto.jpg" ... */}
-```
-Reemplaza el `<div className="hero-photo-placeholder">` por:
-```jsx
-<img src="/tu-foto.jpg" alt="Sara Ascencio" className="hero-photo-img"/>
-```
-Y coloca tu foto en la carpeta `public/`.
-
-## ✏️ Personalizar datos
-
-Todos los textos, proyectos y certificaciones están en el objeto `T` al inicio de `src/App.jsx`.
-Los 3 idiomas (es/en/fr) se actualizan ahí.
-
-## 🎨 Cambiar colores
-
-Las variables principales están en `src/index.css`:
-- `#5B4FCF` → violeta principal
-- `#F5F2ED` → crema base
-- `#1C1917` → tinta oscura
-
-## 📁 Estructura
-
-```
-portfolio/
-├── public/
-│   └── index.html
-├── src/
-│   ├── App.jsx       ← componentes + datos + i18n
-│   ├── index.css     ← todos los estilos
-│   └── index.js      ← entry point
-├── package.json
-└── README.md
-```
+## 🎨 Características Principales
+* **Diseño Responsive:** Adaptable a celulares, tablets y escritorio.
+* **Interfaz Interactiva:** Animaciones fluidas con Canvas API, Tilt effect en tarjetas y Marquees infinitos.
+* **Modo Oscuro:** Soporte nativo para tema claro y oscuro.
+* **Galería en Modal:** Navegación interactiva por capturas y videos de los proyectos.
