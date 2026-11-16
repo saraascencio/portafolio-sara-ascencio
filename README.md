@@ -1,4 +1,4 @@
-# 🌟 Portafolio Profesional | Sara Ascencio
+# Portafolio Profesional | Sara Ascencio
 
 Bienvenido a mi portafolio interactivo. Soy **Próxima a egresar de Ingeniería en Sistemas Informáticos** por la Universidad Católica de El Salvador, con un fuerte interés en **Análisis de Datos, Business Intelligence y Desarrollo de Software**.
 
